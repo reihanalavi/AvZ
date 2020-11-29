@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1597853074,
+	"version": 1606658785,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -113,6 +113,9 @@
 		"images/collapse.png",
 		"images/showzomb.png",
 		"images/zombend.png",
+		"images/keyboards_-sheet0.png",
+		"images/vkoff-sheet0.png",
+		"images/vkoff-sheet1.png",
 		"media/klik.m4a",
 		"media/klik.ogg",
 		"media/die1.m4a",
